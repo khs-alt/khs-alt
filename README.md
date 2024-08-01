@@ -1,7 +1,7 @@
 ### Thank you so much for coming to my GitHub
  👋 Hello, nice to meet you
- I am a senior student at Sangmyung University majoring in Software with a focus on server development
- these days I'm interested in developing and deploying web servers using Golang and GCP
+ I am a backend developer at dalbitsoft
+ these days I'm developing servers with Golang
  
  
  
