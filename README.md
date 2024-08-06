@@ -1,6 +1,6 @@
 ### Thank you so much for coming to my GitHub
  👋 Hello, nice to meet you
- I am a backend developer at dalbitsoft, these days I'm developing servers with Golang
+ I am a backend developer at dalbitsoft, developing servers with Golang
  
  
  
