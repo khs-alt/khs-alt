@@ -1,4 +1,4 @@
-### Thank you so much for coming to my GitHub
+### Thank you so much for visiting to my GitHub
  👋 Hello, nice to meet you
  I am a backend developer at dalbitsoft, developing servers with Golang
  
